@@ -8,3 +8,4 @@
 jdek93/jdek93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+If anyone is willing to teach me how to start creating the ROM I will always list your name as a Special contributer and co developer.
